@@ -1,0 +1,62 @@
+E:\TUT\PROYECTOS\GUI_V_2\GUI_V_2\bin\Debug\GUI_V_2.exe.config
+E:\TUT\PROYECTOS\GUI_V_2\GUI_V_2\bin\Debug\GUI_V_2.exe
+E:\TUT\PROYECTOS\GUI_V_2\GUI_V_2\bin\Debug\GUI_V_2.pdb
+E:\TUT\PROYECTOS\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.csprojResolveAssemblyReference.cache
+E:\TUT\PROYECTOS\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.Form1.resources
+E:\TUT\PROYECTOS\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.Properties.Resources.resources
+E:\TUT\PROYECTOS\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.csproj.GenerateResource.Cache
+E:\TUT\PROYECTOS\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.exe
+E:\TUT\PROYECTOS\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.pdb
+E:\TUT\PROYECTOS\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.Productos.resources
+E:\TUT\PROYECTOS\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.InicioResumen.resources
+C:\Users\RonetJohn\Documents\proyectoGUI_V2\GUI_V_2\GUI_V_2\bin\Debug\GUI_V_2.exe.config
+C:\Users\RonetJohn\Documents\proyectoGUI_V2\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.exe
+C:\Users\RonetJohn\Documents\proyectoGUI_V2\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.pdb
+C:\Users\RonetJohn\Documents\proyectoGUI_V2\GUI_V_2\GUI_V_2\bin\Debug\GUI_V_2.exe
+C:\Users\RonetJohn\Documents\proyectoGUI_V2\GUI_V_2\GUI_V_2\bin\Debug\GUI_V_2.pdb
+C:\Users\RonetJohn\Documents\proyectoGUI_V2\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.csprojResolveAssemblyReference.cache
+C:\Users\RonetJohn\Documents\proyectoGUI_V2\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.Form1.resources
+C:\Users\RonetJohn\Documents\proyectoGUI_V2\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.InicioResumen.resources
+C:\Users\RonetJohn\Documents\proyectoGUI_V2\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.Productos.resources
+C:\Users\RonetJohn\Documents\proyectoGUI_V2\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.Properties.Resources.resources
+C:\Users\RonetJohn\Documents\proyectoGUI_V2\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.csproj.GenerateResource.Cache
+C:\Users\RonetJhon\Downloads\proyectoGUI_V2\proyectoGUI_V2\GUI_V_2\GUI_V_2\bin\Debug\GUI_V_2.exe.config
+C:\Users\RonetJhon\Downloads\proyectoGUI_V2\proyectoGUI_V2\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.exe
+C:\Users\RonetJhon\Downloads\proyectoGUI_V2\proyectoGUI_V2\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.pdb
+D:\RJ Code Advance\Source Code C#\2018\GUI_MODERNISTA VD02\proyectoGUI_V2\GUI_V_2\GUI_V_2\bin\Debug\GUI_V_2.exe.config
+D:\RJ Code Advance\Source Code C#\2018\GUI_MODERNISTA VD02\proyectoGUI_V2\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.exe
+D:\RJ Code Advance\Source Code C#\2018\GUI_MODERNISTA VD02\proyectoGUI_V2\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.pdb
+D:\RJ Code Advance\Source Code C#\2018\GUI_MODERNISTA VD02\proyectoGUI_V2\GUI_V_2\GUI_V_2\bin\Debug\GUI_V_2.exe
+D:\RJ Code Advance\Source Code C#\2018\GUI_MODERNISTA VD02\proyectoGUI_V2\GUI_V_2\GUI_V_2\bin\Debug\GUI_V_2.pdb
+D:\RJ Code Advance\Source Code C#\2018\GUI_MODERNISTA VD02\proyectoGUI_V2\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Source Code C#\2018\GUI_MODERNISTA VD02\proyectoGUI_V2\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.Form1.resources
+D:\RJ Code Advance\Source Code C#\2018\GUI_MODERNISTA VD02\proyectoGUI_V2\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.InicioResumen.resources
+D:\RJ Code Advance\Source Code C#\2018\GUI_MODERNISTA VD02\proyectoGUI_V2\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.Productos.resources
+D:\RJ Code Advance\Source Code C#\2018\GUI_MODERNISTA VD02\proyectoGUI_V2\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.Properties.Resources.resources
+D:\RJ Code Advance\Source Code C#\2018\GUI_MODERNISTA VD02\proyectoGUI_V2\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.csproj.GenerateResource.Cache
+C:\Users\Ivan\Desktop\Proyecto final Topicos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\obj\Debug\GUI_V_2.Form1.resources
+C:\Users\Ivan\Desktop\Proyecto final Topicos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\obj\Debug\GUI_V_2.InicioResumen.resources
+C:\Users\Ivan\Desktop\Proyecto final Topicos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\obj\Debug\GUI_V_2.login.resources
+C:\Users\Ivan\Desktop\Proyecto final Topicos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\obj\Debug\GUI_V_2.Properties.Resources.resources
+C:\Users\Ivan\Desktop\Proyecto final Topicos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\obj\Debug\GUI_V_2.csproj.GenerateResource.cache
+C:\Users\Ivan\Desktop\Proyecto final Topicos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\obj\Debug\GUI_V_2.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\Proyecto final Topicos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\obj\Debug\GUI_V_2.exe
+C:\Users\Ivan\Desktop\Proyecto final Topicos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\obj\Debug\GUI_V_2.pdb
+C:\Users\Ivan\Desktop\Proyecto final Topicos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\GUI_V_2.exe.config
+C:\Users\Ivan\Desktop\Proyecto final Topicos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\GUI_V_2.exe
+C:\Users\Ivan\Desktop\Proyecto final Topicos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\GUI_V_2.pdb
+C:\Users\Ivan\Desktop\Proyecto final Topicos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\dllProyecto.dll
+C:\Users\Ivan\Desktop\Proyecto final Topicos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\dllProyecto.pdb
+C:\Users\Ivan\Desktop\Proyecto final Topicos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\obj\Debug\GUI_V_2.csprojAssemblyReference.cache
+C:\Users\Ivan\Desktop\Proyecto final Topicos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\obj\Debug\GUI_V_2.csproj.CopyComplete
+C:\Users\Ivan\Desktop\Proyecto final Topicos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\obj\Debug\GUI_V_2.Catalogo.catalogoAuto.resources
+C:\Users\Ivan\Desktop\Proyecto final Topicos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\obj\Debug\GUI_V_2.Catalogo.informacion.resources
+C:\Users\Ivan\Desktop\Proyecto final Topicos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\obj\Debug\GUI_V_2.Catalogo.CatalogoForm.resources
+C:\Users\Ivan\Desktop\Proyecto final Topicos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\obj\Debug\GUI_V_2.Catalogo.ClienteForm.resources
+C:\Users\Ivan\Desktop\Proyecto final Topicos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\obj\Debug\GUI_V_2.Catalogo.cotizalo.resources
+C:\Users\Ivan\Desktop\Proyecto final Topicos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\obj\Debug\GUI_V_2.FormRevision.catalogoRevision.resources
+C:\Users\Ivan\Desktop\Proyecto final Topicos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\obj\Debug\GUI_V_2.FormRevision.nuevaRevision.resources
+C:\Users\Ivan\Desktop\Proyecto final Topicos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\obj\Debug\GUI_V_2.FormVentas.catalogoVentas.resources
+C:\Users\Ivan\Desktop\Proyecto final Topicos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\obj\Debug\GUI_V_2.FormCliente.resources
+C:\Users\Ivan\Desktop\Proyecto final Topicos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\obj\Debug\GUI_V_2.FormUsuarios.catalogoUsuarios.resources
+C:\Users\Ivan\Desktop\Proyecto final Topicos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\obj\Debug\GUI_V_2.FormUsuarios.nuevoUsuario.resources

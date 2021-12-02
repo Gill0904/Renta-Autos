@@ -1,0 +1,6 @@
+C:\Users\Ivan\Desktop\Proyecto final Topicos\ModernFlat-GUI-Version-Base-C-Sharp-master\dllProyectoFinal\bin\Debug\dllProyectoFinal.dll
+C:\Users\Ivan\Desktop\Proyecto final Topicos\ModernFlat-GUI-Version-Base-C-Sharp-master\dllProyectoFinal\bin\Debug\dllProyectoFinal.pdb
+C:\Users\Ivan\Desktop\Proyecto final Topicos\ModernFlat-GUI-Version-Base-C-Sharp-master\dllProyectoFinal\obj\Debug\dllProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\Proyecto final Topicos\ModernFlat-GUI-Version-Base-C-Sharp-master\dllProyectoFinal\obj\Debug\dllProyectoFinal.dll
+C:\Users\Ivan\Desktop\Proyecto final Topicos\ModernFlat-GUI-Version-Base-C-Sharp-master\dllProyectoFinal\obj\Debug\dllProyectoFinal.pdb
+C:\Users\Ivan\Desktop\Proyecto final Topicos\ModernFlat-GUI-Version-Base-C-Sharp-master\dllProyectoFinal\obj\Debug\dllProyectoFinal.csprojAssemblyReference.cache
